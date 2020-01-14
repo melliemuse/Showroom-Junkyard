@@ -1,5 +1,5 @@
 # Create an empty set named showroom.
-
+showroom = set()
 # Add four of your favorite car model names to the set.
 # Print the length of your set.
 # Pick one of the items in your show room and add it to the set again.
