@@ -24,4 +24,5 @@ junkyard = {"old Prius", "Vintage", "rustbucket", "clunker", "Spyder"}
 # Use the intersection method to see which cars exist in both the showroom and that junkyard.
 overlap = junkyard.intersection(showroom)
 # Now you're ready to buy the cars in the junkyard. Use the union method to combine the junkyard into your showroom.
+allCars = showroom.union(junkyard)
 # Use the discard() method to remove any cars that you acquired from the junkyard that you do not want in your showroom.
